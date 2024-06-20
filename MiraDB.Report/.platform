@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "MiraDB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "99720888-4dfc-4949-9397-6e805de0d507"
+  }
+}

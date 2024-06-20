@@ -1,0 +1,231 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 437.77777777777777,
+        "y": 1085.5555555555554
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 10,
+            "y": 601.52841524695964
+          },
+          "nodeIndex": "BACKUP_INFORMATION",
+          "nodeLineageTag": "91e4009f-83bb-4677-ace1-c683877130b4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 830.4608330401179,
+            "y": 747.25255908083545
+          },
+          "nodeIndex": "DEAD_LOCKS",
+          "nodeLineageTag": "6cbcc200-4245-49ef-ad06-80acdc84e7bd",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 340.29144025700009,
+            "y": 699.94377874608881
+          },
+          "nodeIndex": "DRIVE_SPACE_INFORMATION",
+          "nodeLineageTag": "95bff4de-b90a-491c-8dc4-722edb5c809b",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 1122.5923965325662,
+            "y": 687.85328302014318
+          },
+          "nodeIndex": "INFORMATION_FOR_ALL_DATABASES",
+          "nodeLineageTag": "3c3116ca-144b-47f8-8a07-6cb078f932ea",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1006.3462803782066,
+            "y": 1469.6276375331463
+          },
+          "nodeIndex": "JOBS_HISTORY_STATUS",
+          "nodeLineageTag": "a5d4324c-344f-4da5-b426-5a510935c0ad",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 420.88576596533329,
+            "y": 1860.7270943232343
+          },
+          "nodeIndex": "LOCK_OBJECTS",
+          "nodeLineageTag": "cfef64d5-7640-401e-9b4b-606071c70d03",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 689.08991505408937,
+            "y": 412.06159412528262
+          },
+          "nodeIndex": "LOGIN_INFORMATION",
+          "nodeLineageTag": "935f4047-5594-4b4f-8a49-143819cbd03e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 413.170945180613,
+            "y": -10
+          },
+          "nodeIndex": "LONG_RUNNING_QUERIES",
+          "nodeLineageTag": "ddf41b8b-e57c-46e9-8014-21ea3c1d7431",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 6,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 244.83669206008764,
+            "y": 1323.0112473752531
+          },
+          "nodeIndex": "MDF_AND_LDF_FILES",
+          "nodeLineageTag": "7cc94379-d127-4f29-a548-2f763adfdd2f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 39.929948813702765,
+            "y": 962.27559041197082
+          },
+          "nodeIndex": "SERVER_AND_INSTANCE_STATUS",
+          "nodeLineageTag": "8ddc4888-728f-431d-b06b-a34f9a987bf7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 537.68494609361733,
+            "y": 1087.5302636309721
+          },
+          "nodeIndex": "SERVER_DETAILS",
+          "nodeLineageTag": "daa014d0-f7ca-4602-bcf3-d01787a5fac9",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 713.62749203007593,
+            "y": 1748.37733405967
+          },
+          "nodeIndex": "SERVER_LIST",
+          "nodeLineageTag": "232cecbd-64b3-4e9d-8b1c-9afd90cf041e",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1111.3798801623193,
+            "y": 1108.8744370025458
+          },
+          "nodeIndex": "TOP_CPU_CONSUMPTION",
+          "nodeLineageTag": "0af243c4-8f8a-4e17-8b89-9febe1802a47",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 531.64290296913509,
+            "y": 1392.4814362087118
+          },
+          "nodeIndex": "TOP_IO_CONSUMPTION",
+          "nodeLineageTag": "fd06ac3c-36dd-435c-a322-ff9ab57518d8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 120.44272028873121,
+            "y": 240.77808315756693
+          },
+          "nodeIndex": "TOP_MEMORY_CONSUMPTION",
+          "nodeLineageTag": "5d22782e-0b4a-4207-9420-e4a6cdfc48ff",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1396.5923965325662,
+            "y": 1009.3635471616171
+          },
+          "nodeIndex": "Data Refresh",
+          "nodeLineageTag": "7cd51977-bc07-45e5-96d8-aa9e31876304",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 14
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 90,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
